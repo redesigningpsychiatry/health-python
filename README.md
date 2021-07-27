@@ -1,4 +1,4 @@
-# Redesign Health
+# Redesign Health Python library
 
-Open source python library for different projects within the
+This repository contains the open-source python package [redesign.health](https://pypi.org/project/redesign.health/) for use within different projects of the
 [Redesigning Psychiatry](https://github.com/redesigningpsychiatry) programme.
